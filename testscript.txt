@@ -1,0 +1,30 @@
+Script started on 2024-06-07 16:50:07+03:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="101" LINES="55"]
+[?2004h]0;pilot@plusha: ~/otus/otus_linux_pro_hw_06[01;32mpilot@plusha[00m:[01;34m~/otus/otus_linux_pro_hw_06[00m$ 
+[?2004l[?2004h]0;pilot@plusha: ~/otus/otus_linux_pro_hw_06[01;32mpilot@plusha[00m:[01;34m~/otus/otus_linux_pro_hw_06[00m$ 
+[?2004l[?2004h]0;pilot@plusha: ~/otus/otus_linux_pro_hw_06[01;32mpilot@plusha[00m:[01;34m~/otus/otus_linux_pro_hw_06[00m$ ll
+[?2004ltotal 28
+drwxrwxr-x  4 pilot pilot 4096 июн  7 16:50 [0m[01;34m.[0m/
+drwxrwxr-x 13 pilot pilot 4096 июн  3 18:24 [01;34m..[0m/
+drwxrwxr-x  8 pilot pilot 4096 июн  3 18:24 [01;34m.git[0m/
+-rw-rw-r--  1 pilot pilot   22 июн  3 18:24 README.md
+-rw-rw-r--  1 pilot pilot    0 июн  7 16:50 testscript.txt
+-rw-rw-r--  1 pilot pilot 1412 июн  7 16:49 typescript
+drwxrwxr-x  5 pilot pilot 4096 июн  3 18:25 [01;34m.vagrant[0m/
+-rw-rw-r--  1 pilot pilot 2486 июн  7 16:43 Vagrantfile
+[?2004h]0;pilot@plusha: ~/otus/otus_linux_pro_hw_06[01;32mpilot@plusha[00m:[01;34m~/otus/otus_linux_pro_hw_06[00m$ echo ;[K'test'\[K
+[?2004ltest
+[?2004h]0;pilot@plusha: ~/otus/otus_linux_pro_hw_06[01;32mpilot@plusha[00m:[01;34m~/otus/otus_linux_pro_hw_06[00m$ ll
+[?2004ltotal 28
+drwxrwxr-x  4 pilot pilot 4096 июн  7 16:50 [0m[01;34m.[0m/
+drwxrwxr-x 13 pilot pilot 4096 июн  3 18:24 [01;34m..[0m/
+drwxrwxr-x  8 pilot pilot 4096 июн  3 18:24 [01;34m.git[0m/
+-rw-rw-r--  1 pilot pilot   22 июн  3 18:24 README.md
+-rw-rw-r--  1 pilot pilot    0 июн  7 16:50 testscript.txt
+-rw-rw-r--  1 pilot pilot 1412 июн  7 16:49 typescript
+drwxrwxr-x  5 pilot pilot 4096 июн  3 18:25 [01;34m.vagrant[0m/
+-rw-rw-r--  1 pilot pilot 2486 июн  7 16:43 Vagrantfile
+[?2004h]0;pilot@plusha: ~/otus/otus_linux_pro_hw_06[01;32mpilot@plusha[00m:[01;34m~/otus/otus_linux_pro_hw_06[00m$ cat testscript.txt 
+[?2004l[?2004h]0;pilot@plusha: ~/otus/otus_linux_pro_hw_06[01;32mpilot@plusha[00m:[01;34m~/otus/otus_linux_pro_hw_06[00m$ exit
+[?2004lexit
+
+Script done on 2024-06-07 16:50:33+03:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/pilot/otus/otus_linux_pro_hw_06/ver3","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
